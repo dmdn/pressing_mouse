@@ -1,0 +1,9 @@
+body {
+    padding: 20px;
+    background: #666;
+    margin: 0;
+}
+
+h1, h3, p {
+    color: #fff;
+}
